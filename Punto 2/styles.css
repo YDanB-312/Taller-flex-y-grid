@@ -1,0 +1,15 @@
+.container {
+    display:flex;
+    background-color:  rgba(123,198,199,0.8);
+    ;
+
+}
+
+.item {
+    border-bottom: 1px solid gray;
+}
+
+main {
+    background-color: aquamarine;
+    padding: 20px;
+}

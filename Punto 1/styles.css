@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    background-color: cornsilk;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.item {
+    background-color: rgba(123,198,199,0.8);
+    border: 2px solid white;
+    padding: 7px;
+}
